@@ -1,1 +1,1 @@
-JavaScript Öğrenme Aşamasında Yaptığım Küçük Alıştırma Projeleri
+JavaScript Öğrenme Alıştırma Projeleri
